@@ -33,9 +33,9 @@
             <body>
                 <header>
                     <img src= "../img/logotipo.png" alt= "Reservas" />
-					<a href="../xml/zonas.xml">Zonas</a>
-					<a href="../xml/plantas.xml">Plantas</a>
-					<a href="../xml/actividades.xml">Actividades</a>
+                    <a href="web/zonas.html">Zonas</a>
+                    <a href="web/plantas.html">Plantas</a>
+                    <a href="web/actividades.html">Actividades</a>
                 </header>
 
                 <main>
