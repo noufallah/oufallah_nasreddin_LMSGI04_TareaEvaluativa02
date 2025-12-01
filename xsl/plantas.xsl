@@ -28,10 +28,10 @@
 
             <body>
                 <header>
-                    <img src="../img/logotipo.png" alt="Logotipo"/>
-                    <a href="zonas.html">Zonas</a>
-                    <a href="plantas.html">Plantas</a>
-                    <a href="actividades.html">Actividades</a>
+                    <img src= "../img/logotipo.png" alt= "Reservas" />
+                    <a href="web/zonas.html">Zonas</a>
+                    <a href="web/plantas.html">Plantas</a>
+                    <a href="web/actividades.html">Actividades</a>
                 </header>
 
                 <main id="jardinbotanico">
