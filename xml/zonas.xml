@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/zonas.xsl"?>
+
+<jardinBotanico>
+    <zonas>
+        <zona codigo="Z-001" tipo="Invernadero Tropical">
+            <nombre>Zona Tropical</nombre>
+            <descripcion>Plantas tropicales de distintas regiones del mundo.</descripcion>
+            <ubicacion>Planta Baja</ubicacion>
+            <horarioapertura>10:00</horarioapertura>
+            <horariocierre>20:00</horariocierre>
+        </zona>
+        <zona codigo="Z-002" tipo="Cactaceas">
+            <nombre>Jardín de Cactus</nombre>
+            <descripcion>Cactus y suculentas de diversas formas y tamaños.</descripcion>
+            <ubicacion>Exterior Sur</ubicacion>
+            <horarioapertura>14:00</horarioapertura>
+            <horariocierre>20:00</horariocierre>
+        </zona>
+        <zona codigo="Z-003" tipo="Invernadero Mediterráneo">
+            <nombre>Plantas Mediterraneas</nombre>
+            <descripcion>Cactus y suculentas de diversas formas y tamaños.</descripcion>
+            <ubicacion>Exterior Sur</ubicacion>
+            <horarioapertura>9:00</horarioapertura>
+            <horariocierre>19:30</horariocierre>
+        </zona>
+    </zonas>
+</jardinBotanico>
