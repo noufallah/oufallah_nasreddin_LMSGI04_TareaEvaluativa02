@@ -7,7 +7,7 @@
     Descripción: Transformación XSLT para mostrar las plantas del jardín botánico
     Autor: Nasreddin Oufallah
     Fecha: Noviembre 2025
-    Url Github :
+    Url Github : https://noufallah.github.io/oufallah_nasreddin_LMSGI04_TareaEvaluativa02/
 -->
 
 <xsl:stylesheet version="1.0"
